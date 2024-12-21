@@ -5,4 +5,5 @@ return {
     'nvim-telescope/telescope.nvim',
   },
   opts = {},
+  ft = 'html',
 }
